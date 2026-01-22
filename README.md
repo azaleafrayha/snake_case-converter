@@ -1,5 +1,5 @@
 # Text Converter to snake_case
-Sometimes you get data or code from other systems (like JavaScript or Java) that use `PascalCase` or `camelCase`. And this tool helps automate the boring task of renaming everything to keep your Python code consistent.
+Sometimes you get data or code from other systems (like JavaScript or Java) that use `PascalCase` or `camelCase` right? This tool helps automate the boring task of renaming everything to keep your Python code consistent.
 
 ## Personal Tweak
 This project is based on the FreeCodeCamp (FCC) Scientific Computing with Python curriculum. And I added `if __name__ == '__main__':` to make the script **smart** :)
